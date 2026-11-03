@@ -6,7 +6,8 @@ More components at [Framer University](https://frameruni.link/cc).`}}),an.displa
   { name: `GOOGLE CLOUD`, quote: `GENERATIVE AI.` },
   { name: `IBM`, quote: `ARTIFICIAL INTELLIGENCE FUNDAMENTALS.` },
   { name: `HACKVISER`, quote: `CYBERSECURITY FOUNDATIONS.` },
-  { name: `HUGGING FACE`, quote: `HUGGING FACE AGENTS COURSE.` }
+  { name: `HUGGING FACE`, quote: `AGENTS COURSE.` },
+  { name: `HARVARD`, quote: `CS50 AI (ARTIFICIAL INTELLIGENCE).` }
 ].map((item, idx) => f(le, {
   key: `cert-row-${idx}`,
   width: `100%`,
